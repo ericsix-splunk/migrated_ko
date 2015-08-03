@@ -1,0 +1,14 @@
+#############################################################
+#  Cloud Adoption
+#  Migrated Knowledge Objects App
+#  ---------------- v 1 0 ------
+#  This is a template for an App that will contain previously 
+#  created knowledge objects (from another instance of Splunk
+#  Cloud.) 
+#  All KOs are placed in this app are system exported, and admin
+#  writable / world readable.
+#############################################################
+
+
+
+

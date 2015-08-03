@@ -1,0 +1,7 @@
+# default for everyone to read contents of this app, only admin can write.
+# export all objects to the system
+[]
+access = read : [ * ], write : [ sc_admin,admin ]
+export = system
+
+
